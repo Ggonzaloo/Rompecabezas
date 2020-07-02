@@ -1,3 +1,8 @@
+// Ejecutamos la función iniciar
+iniciar();
+
+
+
 // Arreglo que contiene las intrucciones del juego
 var instrucciones = ["Mueve las piezas utilizando las flechas de tu teclado",
 "Ordena las piezas hasta alcanzar la imagen objetivo"];
@@ -323,5 +328,4 @@ function iniciar() {
     capturarTeclas();
 }
 
-// Ejecutamos la función iniciar
-iniciar();
+
